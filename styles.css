@@ -1,0 +1,42 @@
+.box {
+  /* display: inline; */
+  background-color: #D9534F;
+  color: #fff;
+  padding: 2px 5px;
+  border-radius: 6px;
+  font-weight: 700;
+}
+.alignment{
+  text-align: center;
+}.active{
+  background-color:black ;
+  
+}.mid{
+  margin-left: 95px !important;
+}
+.aboutus{
+  color: grey;
+}.leftmargin{
+  margin-left: 95px;
+}hr{
+  margin-left: 105px;
+}.table{
+  margin-left: 95px;
+}
+.badge {
+  border-radius: 15px !important;
+}
+.pictures{
+  margin: 20px 45px;
+  margin-right: 0px;
+}
+
+.button {
+  width: 60px !important;
+  font-size: 12px !important;
+  padding: 1px !important;
+}
+
+
+
+
